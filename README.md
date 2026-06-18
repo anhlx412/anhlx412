@@ -40,6 +40,13 @@ I combine deep technical depth in **cloud-native, microservices, and AI-driven a
 
 ---
 
+## 🎓 Education
+
+- **M.Sc. Computer Networks** — VNU University of Engineering and Technology *(2013–2015)*
+- **B.Sc. Information Technology** — VNU University of Engineering and Technology *(2007–2011)*
+
+---
+
 ## 🎯 Executive Competencies
 
 ```
@@ -168,13 +175,6 @@ Cloud Infrastructure (AWS/GCP)     │  B2B Enterprise Consulting
 ![C-Level](https://img.shields.io/badge/C--Level_%26_Board_Reporting-1D4ED8?style=for-the-badge)
 ![Due Diligence](https://img.shields.io/badge/Technical_Due_Diligence-7F1D1D?style=for-the-badge)
 ![B2B Consulting](https://img.shields.io/badge/B2B_Enterprise_Consulting-0F172A?style=for-the-badge)
-
----
-
-## 🎓 Education
-
-- **M.Sc. Computer Networks** — VNU University of Engineering and Technology *(2013–2015)*
-- **B.Sc. Information Technology** — VNU University of Engineering and Technology *(2007–2011)*
 
 ---
 
